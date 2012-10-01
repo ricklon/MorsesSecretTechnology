@@ -1,4 +1,4 @@
-MorsesSecretTechnology
+Morses Secret Technology
 ======================
 
 Morses Secret Technology, the Exquisite Corpse of Open Hardware.
