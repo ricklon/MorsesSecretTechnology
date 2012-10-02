@@ -20,6 +20,6 @@ I love paradoxes, and irony so I'm looking forward to see what stories we tell u
 Current Projects:
 ======
 * [Morse's Secret Blocks](https://github.com/ricklon/MorsesSecret)
-* [Morse's Autotelegrapher](https://github.com/ricklon/VictorianBoxBot)
+* [Morse's Autotelegrapher](https://github.com/ricklon/Autotelegrapher)
 * [Morse's Messenger](https://github.com/ricklon/VictorianBoxBot) // Victorian Robot
 * [Morse's Dome](https://github.com/ricklon/MorseDome)
