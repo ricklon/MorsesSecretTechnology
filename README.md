@@ -5,7 +5,7 @@ Morses Secret Technology, the Exquisite Corpse of Open Hardware.
 
 Why
 ====
-There is a form of story telling called [The Exquiseite Corps](http://en.wikipedia.org/wiki/Exquisite_corpse) it has 
+There is a form of story telling called [The Exquisite Corps](http://en.wikipedia.org/wiki/Exquisite_corpse) it has 
 traditionally been performed as drawing a part of picutre, and folding it so the only a few lines of the image remain
 so they can be extended by the next person. No one can really see the whole, but everyone can add a part. This 
 also has been adapted to a story telling technique of writing several sentences, and then folding the paper, and 
